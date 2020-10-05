@@ -42,6 +42,14 @@
             "IncomeBracket",
             "IncomeBracket.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calculateExtraXP",
+            "calculateExtraXP.json"
+          ]
         }
       ],
       "configxml": null,
@@ -63,7 +71,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Animals",
+      "firstform": "IncomeBracket",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
