@@ -1,3 +1,4 @@
+/* 
 let firstNum = Number(prompt("Please give me a number."));
 let secNum = Number(prompt("Please give me another number."));
 let thrdNum = Number(prompt("Please give me one more number."));
@@ -8,3 +9,4 @@ function calcAvgSquare(num1, num2, num3) {
 } 
 
 alert(`The answer is ${finalAnswer}.`)
+*/ 
